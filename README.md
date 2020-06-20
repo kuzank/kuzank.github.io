@@ -10,7 +10,7 @@
 * [关于我](https://kuzank.github.io/Blog/me/关于我.html)
 * [随笔](https://kuzank.github.io/Blog/随笔/)
 * [现代诗](https://kuzank.github.io/Blog/现代诗/)
-* [如何高效做事？](https://kuzank.github.io/Blog/随笔/2020/如何高效做事.md)
+* [如何高效做事？](https://kuzank.github.io/Blog/随笔/2020/如何高效做事.html)
 
 
 ## [中华国学](https://kuzank.github.io/Sinology)
