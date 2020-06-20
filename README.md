@@ -3,13 +3,14 @@
 我是 kuzank，一名软件工程学士，目前 前端、后端、运维 均有所涉猎，专注于 Java、Spring Boot/Cloud 后台编程技术，也掌握一些 Angular、Vue 前端开发技术。
 
 
-## [kuzank 的网络日志](https://kuzank.github.io/kuzank-blog)
+## [kuzank 的网络日志](https://kuzank.github.io/Blog)
 
 记录有趣的思想、感悟、技术等内容
 
-* [关于我](https://kuzank.github.io/kuzank-blog/me/关于我.html)
-* [随笔](https://kuzank.github.io/kuzank-blog/随笔/)
-* [现代诗](https://kuzank.github.io/kuzank-blog/现代诗/)
+* [关于我](https://kuzank.github.io/Blog/me/关于我.html)
+* [随笔](https://kuzank.github.io/Blog/随笔/)
+* [现代诗](https://kuzank.github.io/Blog/现代诗/)
+* [如何高效做事？](https://kuzank.github.io/Blog/随笔/2020/如何高效做事.md)
 
 
 ## [中华国学](https://kuzank.github.io/Sinology)
