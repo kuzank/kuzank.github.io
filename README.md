@@ -17,10 +17,6 @@
 
 高中时期崇尚文艺，有过很多关于文字的美好想象；可惜意志不坚、天赋没有；大学毕业后，尤喜中华文化，借此将一些喜欢的作品保存起来，其中包括古文、诗词歌赋、杂文等。
 
-* [诗词](https://kuzank.github.io/Sinology/诗词/)
-* [杂文](https://kuzank.github.io/Sinology/杂文/)
-* [古文](https://kuzank.github.io/Sinology/古文/)
-
 
 ## 开源项目
 
