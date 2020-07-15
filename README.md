@@ -1,11 +1,8 @@
-# [kuzank.github.io](https://kuzank.github.io/)
 
 我是 kuzank，一名软件工程学士，目前 前端、后端、运维 均有所涉猎，专注于 Java、Spring Boot/Cloud 后台编程技术，也掌握一些 Angular、Vue 前端开发技术。
 
 
-## [kuzank 的网络日志](https://kuzank.github.io/Blog)
-
-记录有趣的思想、感悟、技术等内容
+## [kuzank 的个人博客](https://kuzank.github.io/Blog)
 
 * [关于我](https://kuzank.github.io/Blog/me/关于我.html)
 * [随笔](https://kuzank.github.io/Blog/随笔/)
