@@ -28,6 +28,7 @@
 
 ## 工具
 * [kuzank-search 自定义搜素](http://kuzank.gitee.io/kuzank-search/)
+* [Vue Code Diff 代码对比工具](http://kuzank.gitee.io/vue-code-diff/)
 
 
 ## License
