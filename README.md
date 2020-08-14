@@ -29,8 +29,8 @@
 ## 工具
 * [kuzank-search 自定义搜素](http://kuzank.gitee.io/kuzank-search/)
 * [Vue Code Diff](http://kuzank.gitee.io/vue-code-diff/)
-* [React Monaco Diff](https://gitee.com/kuzank/monaco-diff-react)
-* [React Monaco Editor](https://gitee.com/kuzank/monaco-editor-react)
+* [React Monaco Diff](http://kuzank.gitee.io/monaco-diff-react/)
+* [React Monaco Editor](http://kuzank.gitee.io/kuzank/monaco-editor-react)
 
 
 ## License
