@@ -30,7 +30,7 @@
 * [kuzank-search 自定义搜素](http://kuzank.gitee.io/kuzank-search/)
 * [Vue Code Diff](http://kuzank.gitee.io/vue-code-diff/)
 * [React Monaco Diff](http://kuzank.gitee.io/monaco-diff-react/)
-* [React Monaco Editor](http://kuzank.gitee.io/kuzank/monaco-editor-react)
+* [React Monaco Editor](http://kuzank.gitee.io/monaco-editor-react)
 
 
 ## License
