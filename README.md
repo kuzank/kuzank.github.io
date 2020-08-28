@@ -24,7 +24,7 @@
 
 
 ## 工具
-* [kuzank-search 自定义搜素](http://kuzank.gitee.io/kuzank-search/)
+* [Kuzank-Search 自定义搜素](http://kuzank.gitee.io/kuzank-search/)
 * [Vue Code Diff 代码对比工具](http://kuzank.gitee.io/vue-code-diff/)
 * [React Monaco Diff 代码对比工具](http://kuzank.gitee.io/monaco-diff-react/)
 * [React Monaco Editor 在线编辑器](http://kuzank.gitee.io/monaco-editor-react)
