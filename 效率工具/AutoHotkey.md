@@ -5,7 +5,8 @@ AutoHotkey for window，you can download application from [https://www.autohotke
 
 ## 我的配置
 键盘快捷键.ahk
-```
+
+```ahk
 SetCapsLockState , AlwaysOff
 
 CapsLock & i::SendInput {Up}
@@ -77,3 +78,4 @@ CapsLock & ?::run www.baidu.com
 ; run，非常常用 的 AHK 命令之一;
 ; ; 号代表 注释后面一行内容；
 ```
+
