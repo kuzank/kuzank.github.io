@@ -5,18 +5,18 @@
 * [关于 kuzank](关于我.md)
 * [运动健身](运动健身.md)
 
-
-## 开源
-
-### Alpaca
-基于业务流程管理的开发平台，流程驱动业务。
-* [alpaca-ng 前端](https://github.com/kuzank/alpaca-ng)
-* [alpaca-api 后台](https://github.com/kuzank/alpaca-api)
-
-### [Snails](https://github.com/kuzank/snails)
-一个基于 Spring-Boot + Ng-Alain 前后端分离的简单实现，初学者上手项目，支持 Docker 部署。
-* [Snails-Web 前端](https://github.com/kuzank/snails-web)
-* [Snails-Api 后台](https://github.com/kuzank/snails-api)
+## 开源项目
+| 名称|  | 源码 | 网站 | 描述 |
+| ------------------- | ------ | --------- | ---- | ------------------- |
+| alpaca-api | 🤯 |[GitHub](https://github.com/kuzank/alpaca-api)、[Gitee](https://gitee.com/kuzank/alpaca-api) |   | 基于业务流程管理的开发平台，流程驱动业务 |
+| alpaca-ng  | 🤯 |[GitHub](https://github.com/kuzank/alpaca-ng)、[Gitee](https://gitee.com/kuzank/alpaca-ng) | | 基于业务流程管理的开发平台，流程驱动业务 |
+| Snails-Api |  ✅  | [GitHub](https://github.com/kuzank/snails-api)、[Gitee](https://gitee.com/kuzank/snails-api)| | 基于 Spring-Boot + Ng-Alain 项目，支持 Docker |
+| Snails-Web |  ✅  |  [GitHub](https://github.com/kuzank/snails-web)、[Gitee](https://gitee.com/kuzank/snails-web)  | | 基于 Spring-Boot + Ng-Alain 项目，支持 Docker |
+| Kuzank-Search | ✅ |[GitHub](https://github.com/kuzank/kuzank-search)、[Gitee](https://gitee.com/kuzank/kuzank-search)|  [GitHub](https://kuzank.com/kuzank-search/)、[Gitee](http://kuzank.gitee.io/kuzank-search/) | kuzank的搜索页面 |
+| history-timeline | 🚀 |  [GitHub](https://github.com/kuzank/history-timeline)、[Gitee](https://gitee.com/kuzank/history-timeline)  | [GitHub](http://kuzank.com/history-timeline/)、[Gitee](http://kuzank.gitee.io/history-timeline/)  | 基于 Vue + ElemenUI 技术，展示古今中外历史 |
+| vue-code-diff | ✅ |  [GitHub](https://github.com/kuzank/vue-code-diff)、[Gitee](https://gitee.com/kuzank/vue-code-diff)  | [GitHub](https://kuzank.github.io/vue-code-diff/)、[Gitee](http://kuzank.gitee.io/vue-code-diff/)  | 代码对比工具「Vue」 |
+| monaco-diff-react | ✅ |  [GitHub](https://github.com/kuzank/monaco-diff-react)、[Gitee](https://gitee.com/kuzank/monaco-diff-react)  | [GitHub](http://kuzank.com/monaco-diff-react/)、[Gitee](http://kuzank.gitee.io/monaco-diff-react/)  | 代码对比工具「React」 |
+| monaco-editor-react | ✅ |  [GitHub](https://github.com/kuzank/monaco-editor-react)、[Gitee](https://gitee.com/kuzank/monaco-editor-react)  | [GitHub](http://kuzank.com/monaco-editor-react/)、[Gitee](http://kuzank.gitee.io/monaco-editor-react/)  | 代码编辑器「React」 |
 
 
 ## 古文
@@ -37,6 +37,10 @@
 * [杜秋娘](诗词/杜秋娘.md)
 
 
+## 阅读
+* [学习之道](阅读/学习之道.md)
+
+
 ## 随笔 
 
 ### 2020 年
@@ -44,10 +48,12 @@
 * [如何高效做事？](随笔/2020/如何高效做事.md)
 
 
-## 摘录
+## 文章摘录
+* [矛盾论](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-193708.htm)
 * [佳句摘录](文章摘录/佳句摘录.md)
 * [一百岁感言](文章摘录/一百岁感言.md)
 * [我们为什么要反对《穹顶之下》](文章摘录/我们为什么要反对穹顶之下.md)
+* [战略 战术 运作](http://www.360doc.com/content/20/0216/23/14247416_892568398.shtml)
 
 
 ## 名人语录
@@ -87,10 +93,6 @@
 
 
 ## 工具
-* [Kuzank-Search 自定义搜素](http://kuzank.gitee.io/kuzank-search/)
-* [Vue Code Diff 代码对比工具](http://kuzank.gitee.io/vue-code-diff/)
-* [React Monaco Diff 代码对比工具](http://kuzank.gitee.io/monaco-diff-react/)
-* [React Monaco Editor 在线编辑器](http://kuzank.gitee.io/monaco-editor-react)
 * [Auto Hotkey Window 热键](效率工具/AutoHotkey.md)
 * [Keyboard Maestro MAC 热键](效率工具/KeyboardMaestro.md)
 * [Vimium Chrome 热键](效率工具/Vimium.md)
