@@ -8,7 +8,7 @@
 ## 开源项目
 | 名称| 源码 | 网站 | 描述 |
 |:-------------|:-------------|:-------------|:-------------|
-| alpaca-api | [GitHub](https://github.com/kuzank/alpaca-api)、[Gitee](https://gitee.com/kuzank/alpaca-api) | - | 基于业务流程管理的开发平台，流程驱动业务 |
+| alpaca-api | [GitHub](https://github.com/kuzank/alpaca-api) | - | 基于业务流程管理的开发平台，流程驱动业务 |
 
 
 
