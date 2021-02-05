@@ -7,17 +7,17 @@
 
 ## 开源项目
 
-| 名称| 👻 | 源码 | 网站 | 描述 |
-|:-------------|:-------------|:-------------|:-------------|:-------------|
-| alpaca-api | 🤯 |[GitHub](https://github.com/kuzank/alpaca-api)、[Gitee](https://gitee.com/kuzank/alpaca-api) |   | 基于业务流程管理的开发平台，流程驱动业务 |
-| alpaca-ng  | 🤯 |[GitHub](https://github.com/kuzank/alpaca-ng)、[Gitee](https://gitee.com/kuzank/alpaca-ng) | |  |
-| Snails-Api |  ✅  | [GitHub](https://github.com/kuzank/snails-api)、[Gitee](https://gitee.com/kuzank/snails-api)| | 基于 Spring-Boot + Ng-Alain 项目，支持 Docker |
-| Snails-Web |  ✅  |  [GitHub](https://github.com/kuzank/snails-web)、[Gitee](https://gitee.com/kuzank/snails-web)  | |  |
-| Kuzank-Search | ✅ |[GitHub](https://github.com/kuzank/kuzank-search)、[Gitee](https://gitee.com/kuzank/kuzank-search)|  [GitHub](https://kuzank.com/kuzank-search/)、[Gitee](http://kuzank.gitee.io/kuzank-search/) | kuzank的搜索页面 |
-| history-timeline | 🚀 |  [GitHub](https://github.com/kuzank/history-timeline)、[Gitee](https://gitee.com/kuzank/history-timeline)  | [GitHub](http://kuzank.com/history-timeline/)、[Gitee](http://kuzank.gitee.io/history-timeline/)  | 基于 Vue + ElemenUI 技术，展示古今中外历史 |
-| vue-code-diff | ✅ |  [GitHub](https://github.com/kuzank/vue-code-diff)、[Gitee](https://gitee.com/kuzank/vue-code-diff)  | [GitHub](https://kuzank.github.io/vue-code-diff/)、[Gitee](http://kuzank.gitee.io/vue-code-diff/)  | 代码对比工具「Vue」 |
-| monaco-diff-react | ✅ |  [GitHub](https://github.com/kuzank/monaco-diff-react)、[Gitee](https://gitee.com/kuzank/monaco-diff-react)  | [GitHub](http://kuzank.com/monaco-diff-react/)、[Gitee](http://kuzank.gitee.io/monaco-diff-react/)  | 代码对比工具「React」 |
-| monaco-editor-react | ✅ |  [GitHub](https://github.com/kuzank/monaco-editor-react)、[Gitee](https://gitee.com/kuzank/monaco-editor-react)  | [GitHub](http://kuzank.com/monaco-editor-react/)、[Gitee](http://kuzank.gitee.io/monaco-editor-react/)  | 代码编辑器「React」 |
+| 名称| 网站 | 描述 |
+|:-------------|:-------------|:-------------|
+| [alpaca-api](https://github.com/kuzank/alpaca-api) |  | 基于业务流程开发平台 |
+| [alpaca-ng](https://github.com/kuzank/alpaca-ng)  | |  |
+| [snails-api](https://github.com/kuzank/snails-api) |  | SpringBoot + NgAlain |
+| [snails-web](https://github.com/kuzank/snails-web) | |  |
+| [kuzank-search](https://github.com/kuzank/kuzank-search) | [💡](https://kuzank.com/kuzank-search/) | kuzank 的搜索页面 |
+| [history-timeline](https://github.com/kuzank/history-timeline) | [💡](https://kuzank.com/history-timeline/) | 古今中外历史时间轴 |
+| [vue-code-diff](https://github.com/kuzank/vue-code-diff) | [💡](https://kuzank.com/vue-code-diff/) |代码对比工具 |
+| [monaco-diff-react](https://github.com/kuzank/monaco-diff-react) | [💡](https://kuzank.com/monaco-diff-react/) | 代码对比工具 |
+| [monaco-editor-react](https://github.com/kuzank/monaco-editor-react) | [💡](https://kuzank.com/monaco-editor-react/) | 代码编辑器 |
 
 
 ## 古文
