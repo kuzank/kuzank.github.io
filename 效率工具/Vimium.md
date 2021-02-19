@@ -22,10 +22,10 @@ map l nextTab
 map J goBack
 map L goForward
 
-map c copyCurrentUrl
 map e Vomnibar.activateEditUrl
 
-map n createTab
+map c createTab
+map c createTab
 map x removeTab
 map r reload
 
