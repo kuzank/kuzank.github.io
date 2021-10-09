@@ -114,6 +114,19 @@
 * [傅首尔](名人语录/傅首尔.md)
 
 
+## 网络小说
+* 汉鼎余烟
+* 人发杀机天地反覆
+* 拳镇山河
+* 雅骚
+* 上品寒士
+* 黑锅
+* 余罪
+* 如果蜗牛有爱情
+* 我的1979
+* 卜祝
+
+
 ## 工具
 * [Auto Hotkey Window 热键](效率工具/AutoHotkey.md)
 * [Keyboard Maestro MAC 热键](效率工具/KeyboardMaestro.md)
