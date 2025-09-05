@@ -85,6 +85,8 @@
 - [2、中秋赏月闲聊](现代诗/2024/02中秋赏月闲聊.md)
 - [3、天若有情天不老](现代诗/2024/03天若有情天不老.md)
 
+## 2025
+- [1、路边小草](现代诗/2025/01路边小草.md)
 
 ## 文章摘录
 * [矛盾论](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-193708.htm)
